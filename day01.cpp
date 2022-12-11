@@ -12,7 +12,7 @@ int main()
 {
 
     ifstream data;
-    data.open("data.txt");
+    data.open("../data.txt");
 
     int currentCount = 0;
     vector<int> elfCalories;
