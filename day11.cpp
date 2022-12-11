@@ -1,3 +1,5 @@
+//Copyright Lion Six 2022
+
 #include <iostream>
 #include <list>
 #include <algorithm>
